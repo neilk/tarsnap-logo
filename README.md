@@ -1,4 +1,4 @@
-Entry for the [tarsnap logo contest](https://news.ycombinator.com/item?id=6461765) announced on
+Entry for the [tarsnap logo contest](http://mail.tarsnap.com/tarsnap-users/msg00678.html) announced on
 September 28, 2013.
 
 One of tarsnap's features is that it conserves resources by [de-duplicating data](https://www.tarsnap.com/efficiency.html). 
