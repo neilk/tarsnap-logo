@@ -5,7 +5,7 @@ One of tarsnap's features is that it conserves resources by [de-duplicating data
 So the logo is an abstract depiction of blocks of data being copied across a barrier, 
 with de-duplication. It also invokes the letter *T* for tarsnap.
 
-The typeface is [Aller Display](http://www.daltonmaag.com/AllerFreeLicenceAgreement.pdf), 
+The typeface is [Aller Std Bold](http://www.daltonmaag.com/buyonline/fonts/aller), 
 available under the [Aller Free License Agreement](http://www.daltonmaag.com/AllerFreeLicenceAgreement.pdf). Under the terms
 of this license, the full version of the font would have to be paid for (CAD$67.00) if used in a logo or on 
 a website. Free and free-as-in-freedom alternatives could be found, but I haven't seen one I like better yet.
