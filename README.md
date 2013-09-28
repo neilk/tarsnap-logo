@@ -8,6 +8,9 @@ with de-duplication. It also invokes the letter *T* for tarsnap.
 The typeface is [Aller Display](http://www.daltonmaag.com/AllerFreeLicenceAgreement.pdf), 
 available under the [Aller Free License Agreement](http://www.daltonmaag.com/AllerFreeLicenceAgreement.pdf).
 
+I whipped this up in a few minutes. It could be cleaned up and tweaked if this general direction seems worthy, or
+someone else can modify and improve it - it's licensed under Creative Commons.
+
 -- Neil Kandalgaonkar
 
 
